@@ -172,7 +172,7 @@
     },
     {
       "id": 15,
-      "title": "UNKNOWN",
+      "title": "TVR CULTURAL",
       "description": "UNKNOWN Live Stream",
       "url": "https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -220,7 +220,7 @@
     },
     {
       "id": 19,
-      "title": "UNKNOWN",
+      "title": "ATOMIC",
       "description": "UNKNOWN Live Stream",
       "url": "https://atomic.streamnet.ro/atomictv.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -280,7 +280,7 @@
     },
     {
       "id": 24,
-      "title": "UNKNOWN",
+      "title": "TVR FOLCLOR",
       "description": "UNKNOWN Live Stream",
       "url": "https://tvr-tvrfolclor.cdn.zitec.com/live/tvrfolclor/main.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
