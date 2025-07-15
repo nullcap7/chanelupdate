@@ -661,7 +661,7 @@
       "enabled": true,
       "quality": "HD",
       "country": "RO"
-    }
+    },
     {
       "id": 56,
       "title": "DIGI24",
@@ -673,6 +673,6 @@
       "enabled": true,
       "quality": "HD",
       "country": "RO"
-    },
+    }
   ]
 }
