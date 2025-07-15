@@ -76,7 +76,7 @@
     },
     {
       "id": 7,
-      "title": "TVR3-S1",
+      "title": "TVR3",
       "description": "TVR3-S1 Live Stream",
       "url": "https://thor1.syndula.cfd/tevere3/usergenx4klq9qrnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -88,7 +88,7 @@
     },
     {
       "id": 8,
-      "title": "TVR-INTER-S1",
+      "title": "TVR-INTERNATIONAL",
       "description": "TVR-INTER-S1 Live Stream",
       "url": "https://thor1.syndula.cfd/teverei/usergenx6vkj8aqrnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
