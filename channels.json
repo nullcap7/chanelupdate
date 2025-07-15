@@ -4,7 +4,7 @@
   "channels": [
     {
       "id": 1,
-      "title": "TVR121",
+      "title": "TVR1",
       "description": "TVR1 Live Stream",
       "url": "https://ultra2.falconx.cfd/t001/usergend4sdkx9q2rnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
