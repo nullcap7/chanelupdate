@@ -4,7 +4,7 @@
   "channels": [
     {
       "id": 1,
-      "title": "TVR121",
+      "title": "TVR1",
       "description": "TVR1 Live Stream",
       "url": "https://ultra2.falconx.cfd/t001/usergend4sdkx9q2rnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -16,7 +16,7 @@
     },
     {
       "id": 2,
-      "title": "TVR25",
+      "title": "TVR2",
       "description": "TVR2 Live Stream",
       "url": "https://thor1.syndula.cfd/tevere2/usergendxl6d4vnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -28,7 +28,7 @@
     },
     {
       "id": 3,
-      "title": "PROTVVV",
+      "title": "PROTV",
       "description": "PROTV Live Stream",
       "url": "https://omega1.visionxmans.cfd/porky/usergenx7240lrnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
