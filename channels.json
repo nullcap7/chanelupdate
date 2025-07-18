@@ -64,7 +64,7 @@
     },
     {
       "id": 6,
-      "title": "CD-S1",
+      "title": "KANALD",
       "description": "CD-S1 Live Stream",
       "url": "https://arwen1.panaka.cfd/canald/usergenxq0jl72l0rnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -88,7 +88,7 @@
     },
     {
       "id": 8,
-      "title": "TVR3-S1",
+      "title": "TVR3",
       "description": "TVR3-S1 Live Stream",
       "url": "https://thor1.syndula.cfd/tevere3/usergenx4klq9qrnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -100,7 +100,7 @@
     },
     {
       "id": 9,
-      "title": "TVR-INTER-S1",
+      "title": "TVR-INTER",
       "description": "TVR-INTER-S1 Live Stream",
       "url": "https://thor1.syndula.cfd/teverei/usergenx6vkj8aqrnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -148,7 +148,7 @@
     },
     {
       "id": 13,
-      "title": "AN2-S1",
+      "title": "ANTENA STARS",
       "description": "AN2-S1 Live Stream",
       "url": "https://iron1.jarvisx.cfd/antstar/usergenrxl7m94sq.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -292,7 +292,7 @@
     },
     {
       "id": 25,
-      "title": "AN3",
+      "title": "ANTENA3",
       "description": "AN3 Live Stream",
       "url": "https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -316,7 +316,7 @@
     },
     {
       "id": 27,
-      "title": "PRIMA-NEWS-S1",
+      "title": "PRIMA-NEWS",
       "description": "PRIMA-NEWS-S1 Live Stream",
       "url": "https://thor1.syndula.cfd/prnews/usergenx2klq7rnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -340,7 +340,7 @@
     },
     {
       "id": 29,
-      "title": "EURO-NEWS-S1",
+      "title": "EURO-NEWS",
       "description": "EURO-NEWS-S1 Live Stream",
       "url": "https://thor1.syndula.cfd/ernews/usergenx6vkj8aqrnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -352,7 +352,7 @@
     },
     {
       "id": 30,
-      "title": "CNN-LIVE-S1",
+      "title": "CNN-LIVE",
       "description": "CNN-LIVE-S1 Live Stream",
       "url": "https://thor1.syndula.cfd/cienen/usergenrx8ofzq1kr.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -376,7 +376,7 @@
     },
     {
       "id": 32,
-      "title": "CBS-REALITY-S1",
+      "title": "CBS-REALITY",
       "description": "CBS-REALITY-S1 Live Stream",
       "url": "https://iron1.jarvisx.cfd/cbrealy/usergenrxlj5c0q.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
