@@ -184,7 +184,7 @@
     },
     {
       "id": 16,
-      "title": "HRO1-S1",
+      "title": "HBO",
       "description": "HRO1-S1 Live Stream",
       "url": "https://thor1.syndula.cfd/h1/usergendx172s9rnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -196,7 +196,7 @@
     },
     {
       "id": 17,
-      "title": "HRO2-S1",
+      "title": "HBO2",
       "description": "HRO2-S1 Live Stream",
       "url": "https://onyx1.mofta.cfd/h2/usergendxn430rnd.m3u8",
       "thumbnail": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
