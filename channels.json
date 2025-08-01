@@ -68,5 +68,15 @@
     "category": "Kids",
     "duration": 0,
     "headers": "Referer: https://iron1.jarvisx.cfd/000/cartun.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+  },
+  {
+    "id": 46,
+    "title": "DISCOVERY-CHANNEL-S1",
+    "description": "Discovery Channel",
+    "videoUrl": "https://iron1.jarvisx.cfd/disco/usergenrxljmx9su.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Life/Earth",
+    "duration": 0,
+    "headers": "Referer: https://iron1.jarvisx.cfd/000/disc.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   }
 ]
