@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "title": "AN1",
+    "title": "ANTENA 1",
     "description": "AN1 Live Stream",
     "videoUrl": "https://tekra113.sansey.cfd/ah1/usergenx304Jtlrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "title": "CD- ",
+    "title": "kanadl D ",
     "description": "CD  Live Stream",
     "videoUrl": "https://arwen1.panaka.cfd/canald/usergenxq0jl72l0rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "title": "TVR-INTER ",
+    "title": "TVR International ",
     "description": "TVR-INTER  Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/teverei/usergenx6vkj8aqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "title": "AN2 ",
+    "title": "Antena Stars ",
     "description": "AN2  Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/antstar/usergenrxl7m94sq.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "title": "UNKNOWN",
+    "title": "TVR Cultural",
     "description": "UNKNOWN Live Stream",
     "videoUrl": "https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -141,7 +141,7 @@
   },
   {
     "id": 15,
-    "title": "HRO1 ",
+    "title": "HBO",
     "description": "HRO1  Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/h1/usergendx172s9rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -151,7 +151,7 @@
   },
   {
     "id": 16,
-    "title": "HRO2 ",
+    "title": "HBO2 ",
     "description": "HRO2  Live Stream",
     "videoUrl": "https://onyx1.mofta.cfd/h2/usergendxn430rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -251,7 +251,7 @@
   },
   {
     "id": 26,
-    "title": "AN3",
+    "title": "ANTENA 3",
     "description": "AN3 Live Stream",
     "videoUrl": "https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -460,3 +460,4 @@
     "headers": "Referer: https://alpha1.cool-itv.com/000/ant3.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   }
 ]
+
