@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "title": "AN1",
+    "title": "ANTENA1",
     "description": "AN1 Live Stream",
     "videoUrl": "https://tekra113.sansey.cfd/ah1/usergenx304Jtlrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "title": "CD-S1",
+    "title": "Kanal D",
     "description": "CD-S1 Live Stream",
     "videoUrl": "https://arwen1.panaka.cfd/canald/usergenxq0jl72l0rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
