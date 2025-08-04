@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Digi25",
+    "title": "Digi 24",
     "description": "NEWS-24 Live Stream",
     "videoUrl": "https://flash1.bogulus.cfd/news/usergenrk91a4gt.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -51,8 +51,8 @@
   },
   {
     "id": 6,
-    "title": "CD-S1",
-    "description": "CD-S1 Live Stream",
+    "title": "CD- ",
+    "description": "CD  Live Stream",
     "videoUrl": "https://arwen1.panaka.cfd/canald/usergenxq0jl72l0rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
@@ -61,8 +61,8 @@
   },
   {
     "id": 7,
-    "title": "TVR3-S1",
-    "description": "TVR3-S1 Live Stream",
+    "title": "TVR3 ",
+    "description": "TVR3  Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/tevere3/usergenx4klq9qrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
@@ -71,8 +71,8 @@
   },
   {
     "id": 8,
-    "title": "TVR-INTER-S1",
-    "description": "TVR-INTER-S1 Live Stream",
+    "title": "TVR-INTER ",
+    "description": "TVR-INTER  Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/teverei/usergenx6vkj8aqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
@@ -91,8 +91,8 @@
   },
   {
     "id": 10,
-    "title": "AN2-S1",
-    "description": "AN2-S1 Live Stream",
+    "title": "AN2 ",
+    "description": "AN2  Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/antstar/usergenrxl7m94sq.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
@@ -121,7 +121,7 @@
   },
   {
     "id": 13,
-    "title": "UNKNOWN",
+    "title": "Moldova 1",
     "description": "UNKNOWN Live Stream",
     "videoUrl": "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -131,7 +131,7 @@
   },
   {
     "id": 14,
-    "title": "UNKNOWN",
+    "title": "Moldova 2",
     "description": "UNKNOWN Live Stream",
     "videoUrl": "https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -141,8 +141,8 @@
   },
   {
     "id": 15,
-    "title": "HRO1-S1",
-    "description": "HRO1-S1 Live Stream",
+    "title": "HRO1 ",
+    "description": "HRO1  Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/h1/usergendx172s9rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
@@ -151,8 +151,8 @@
   },
   {
     "id": 16,
-    "title": "HRO2-S1",
-    "description": "HRO2-S1 Live Stream",
+    "title": "HRO2 ",
+    "description": "HRO2  Live Stream",
     "videoUrl": "https://onyx1.mofta.cfd/h2/usergendxn430rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
@@ -171,8 +171,8 @@
   },
   {
     "id": 18,
-    "title": "AMC-S1",
-    "description": "AMC-S1 Live Stream",
+    "title": "AMC ",
+    "description": "AMC  Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/amece/usergenrx3oq1kr.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
@@ -191,8 +191,8 @@
   },
   {
     "id": 20,
-    "title": "MOVIE-S1",
-    "description": "MOVIE-S1 Live Stream",
+    "title": "MOVIE ",
+    "description": "MOVIE  Live Stream",
     "videoUrl": "https://ultra2.falconx.cfd/muk/usergendx0nht6241s0krdnyd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
@@ -201,7 +201,7 @@
   },
   {
     "id": 21,
-    "title": "UNKNOWN",
+    "title": "Atomic-TV",
     "description": "UNKNOWN Live Stream",
     "videoUrl": "https://atomic.streamnet.ro/atomictv.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -241,7 +241,7 @@
   },
   {
     "id": 25,
-    "title": "UNKNOWN",
+    "title": "TVR Folclor",
     "description": "UNKNOWN Live Stream",
     "videoUrl": "https://tvr-tvrfolclor.cdn.zitec.com/live/tvrfolclor/main.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -271,8 +271,8 @@
   },
   {
     "id": 28,
-    "title": "PRIMA-NEWS-S1",
-    "description": "PRIMA-NEWS-S1 Live Stream",
+    "title": "PRIMA-NEWS ",
+    "description": "PRIMA-NEWS  Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/prnews/usergenx2klq7rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
@@ -291,8 +291,8 @@
   },
   {
     "id": 30,
-    "title": "EURO-NEWS-S1",
-    "description": "EURO-NEWS-S1 Live Stream",
+    "title": "EURO-NEWS ",
+    "description": "EURO-NEWS  Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/ernews/usergenx6vkj8aqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
@@ -301,8 +301,8 @@
   },
   {
     "id": 31,
-    "title": "CNN-LIVE-S1",
-    "description": "CNN-LIVE-S1 Live Stream",
+    "title": "CNN-LIVE ",
+    "description": "CNN-LIVE  Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/cienen/usergenrx8ofzq1kr.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
@@ -321,8 +321,8 @@
   },
   {
     "id": 33,
-    "title": "CBS-REALITY-S1",
-    "description": "CBS-REALITY-S1 Live Stream",
+    "title": "CBS-REALITY ",
+    "description": "CBS-REALITY  Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/cbrealy/usergenrxlj5c0q.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
@@ -371,8 +371,8 @@
   },
   {
     "id": 38,
-    "title": "ER1-S1",
-    "description": "ER1-S1 Live Stream",
+    "title": "ER1 ",
+    "description": "ER1  Live Stream",
     "videoUrl": "https://jardo111.jardomany.cfd/er01/usergendx0slkgx7dqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Sport",
@@ -381,8 +381,8 @@
   },
   {
     "id": 39,
-    "title": "ER2-S1",
-    "description": "ER2-S1 Live Stream",
+    "title": "ER2 ",
+    "description": "ER2  Live Stream",
     "videoUrl": "https://jardo111.jardomany.cfd/er02/usergenje3x9dqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Sport",
@@ -411,8 +411,8 @@
   },
   {
     "id": 42,
-    "title": "DISCOVERY-CHANNEL-S1",
-    "description": "DISCOVERY-CHANNEL-S1 Live Stream",
+    "title": "DISCOVERY-CHANNEL ",
+    "description": "DISCOVERY-CHANNEL  Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/disco/usergenrxljmx9su.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Life/Earth",
@@ -441,8 +441,8 @@
   },
   {
     "id": 45,
-    "title": "BBC-EARTH-S1",
-    "description": "BBC-EARTH-S1 Live Stream",
+    "title": "BBC-EARTH ",
+    "description": "BBC-EARTH  Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/ert/usergenrx8ofzq1kr.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Life/Earth",
@@ -460,6 +460,3 @@
     "headers": "Referer: https://alpha1.cool-itv.com/000/ant3.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   }
 ]
-
-
-
