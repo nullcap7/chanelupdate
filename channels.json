@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Digi25",
+    "title": "Digi26",
     "description": "NEWS-24 Live Stream",
     "videoUrl": "https://flash1.bogulus.cfd/news/usergenrk91a4gt.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -460,5 +460,6 @@
     "headers": "Referer: https://alpha1.cool-itv.com/000/ant3.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   }
 ]
+
 
 
