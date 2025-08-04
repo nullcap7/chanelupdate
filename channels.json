@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Digigfbgb27",
+    "title": "NEWS-24",
     "description": "NEWS-24 Live Stream",
     "videoUrl": "https://flash1.bogulus.cfd/news/usergenrk91a4gt.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "title": "TVRbdgfb111",
+    "title": "TVR1",
     "description": "TVR1 Live Stream",
     "videoUrl": "https://ultra2.falconx.cfd/t001/usergend4sdkx9q2rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "title": "TbfgbVR2",
+    "title": "TVR2",
     "description": "TVR2 Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/tevere2/usergendxl6d4vnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "title": "PRObgfb00 TV",
+    "title": "PROTV",
     "description": "PROTV Live Stream",
     "videoUrl": "https://omega1.visionxmans.cfd/porky/usergenx7240lrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "title": "ANTEbgfbNA1",
+    "title": "AN1",
     "description": "AN1 Live Stream",
     "videoUrl": "https://tekra113.sansey.cfd/ah1/usergenx304Jtlrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "title": "Kanal D",
+    "title": "CD-S1",
     "description": "CD-S1 Live Stream",
     "videoUrl": "https://arwen1.panaka.cfd/canald/usergenxq0jl72l0rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -460,9 +460,3 @@
     "headers": "Referer: https://alpha1.cool-itv.com/000/ant3.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   }
 ]
-
-
-
-
-
-
