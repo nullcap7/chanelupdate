@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "DIGI24",
+    "title": "DIGI 24",
     "description": "NEWS-24 Live Stream",
     "videoUrl": "https://flash1.bogulus.cfd/news/usergenrk91a4gt.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "title": "PROTV",
+    "title": "PRO TV",
     "description": "PROTV Live Stream",
     "videoUrl": "https://omega1.visionxmans.cfd/porky/usergenx7240lrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
