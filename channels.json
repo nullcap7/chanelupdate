@@ -461,7 +461,7 @@
   },
     {
     "id": 47,
-    "title": "DIGI24 HD,
+    "title": "DIGI24 HD",
     "description": "Google DASH Test Stream",
     "videoUrl": "https://dai.google.com/linear/dash/pa/event/0zJOVqk1S1azvAB6zbx2oQ/stream/9fe60784-5ac6-4582-9add-0c5de1a62de8:GRQ/manifest.mpd",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -470,5 +470,6 @@
     "headers": ""
   }
 ]
+
 
 
