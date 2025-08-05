@@ -15,7 +15,7 @@
     "description": "AN3 Live Stream",
     "videoUrl": "https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "News",
+    "category": "Generale",
     "duration": 0,
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
@@ -25,7 +25,7 @@
     "description": "B1 Live Stream",
     "videoUrl": "https://saruman1.tharen.cfd/b1/usergenrnd840zwl3m.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "News",
+    "category": "Generale",
     "duration": 0,
     "headers": "Referer: https://saruman1.tharen.cfd/000/b1.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
@@ -470,3 +470,4 @@
     "headers": "Referer: https://alpha1.cool-itv.com/000/ant3.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   }
 ]
+
