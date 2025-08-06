@@ -448,5 +448,17 @@
     "category": "Life/Earth",
     "duration": 0,
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+  },
+  {
+    "id": 48,
+    "title": "BBC-EARTH",
+    "description": "BBC-EARTH Live Stream",
+    "videoUrl": "
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Life/Earth",
+    "duration": 0,
+    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: http://www.freeintertv.com"
   }
+
 ]
