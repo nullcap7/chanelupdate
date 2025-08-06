@@ -350,26 +350,6 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 36,
-    "title": "ALEPH-NEWS-TV-LIVE",
-    "description": "ALEPH-NEWS-TV-LIVE Live Stream",
-    "videoUrl": "https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8",
-    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "News",
-    "duration": 0,
-    "headers": "Referer: https://alpha1.cool-itv.com/000/ant3.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
-  },
-  {
-    "id": 37,
-    "title": "JOBTV",
-    "description": "JOBTV Live Stream",
-    "videoUrl": "https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8",
-    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "News",
-    "duration": 0,
-    "headers": "Referer: https://alpha1.cool-itv.com/000/ant3.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
-  },
-  {
     "id": 38,
     "title": "PRS-1",
     "description": "PRS-1 Live Stream",
