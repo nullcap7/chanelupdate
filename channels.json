@@ -3,7 +3,7 @@
     "id": 1,
     "title": "DIGI24 HD",
     "description": "Google DASH Test Stream",
-    "videoUrl": "https://dai.google.com/linear/dash/pa/event/0zJOVqk1S1azvAB6zbx2oQ/stream/9fe60784-5ac6-4582-9add-0c5de1a62de8:GRQ/manifest.mpd",
+    "videoUrl": "https://dai.google.com/linear/dash/pa/event/0zJOVqk1S1azvAB6zbx2oQ/stream/fa5cc8f4-7757-4262-ab67-1a4b32be83b6:BRU/manifest.mpd",           
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
@@ -460,4 +460,5 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   }
 ]
+
 
