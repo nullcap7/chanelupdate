@@ -463,8 +463,7 @@
     "id": 49,
     "title": "RTL FRANCE",
     "description": "BBC-EARTH Live Stream",
-    "videoUrl": "
-https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
+    "videoUrl": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
     "duration": 0,
