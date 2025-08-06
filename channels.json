@@ -458,6 +458,17 @@
     "category": "Movies",
     "duration": 0,
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: http://www.freeintertv.com"
+  },
+  {
+    "id": 49,
+    "title": "RTL FRANCE",
+    "description": "BBC-EARTH Live Stream",
+    "videoUrl": "
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "News",
+    "duration": 0,
+    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: http://www.freeintertv.com"
   }
 
 ]
