@@ -3,7 +3,7 @@
     "id": 1,
     "title": "DIGI24 HD",
     "description": "Google DASH Test Stream",
-    "videoUrl": "https://dai.google.com/linear/dash/event/0zJOVqk1S1azvAB6zbx2oQ/manifest.mpd",
+    "videoUrl": "https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
