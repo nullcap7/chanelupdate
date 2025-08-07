@@ -273,11 +273,11 @@
     "id": 28,
     "title": "KISS-TV",
     "description": "KISS-TV Live Stream",
-    "videoUrl": "https://arwen1.panaka.cfd/kys/usergenrndgs6h1vys2n4l.m3u8",
+    "videoUrl": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": ""
   },
   {
     "id": 29,
