@@ -468,6 +468,19 @@
     "category": "News",
     "duration": 0,
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: http://www.freeintertv.com"
+  },
+  {
+    "id": 50,
+    "title": "Rock TV",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Music",
+    "duration": 0,
+    "headers": ""
   }
+
+
+
 
 ]
