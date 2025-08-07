@@ -488,7 +488,16 @@
     "category": "Generale",
     "duration": 0,
     "headers": ""
+  },
+  {
+    "id": 51,
+    "title": "Magic TV",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Music",
+    "duration": 0,
+    "headers": ""
   }
-
 
 ]
