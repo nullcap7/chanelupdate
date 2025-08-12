@@ -50,7 +50,7 @@
     "headers": "Referer: https://www.cool-etv.net/ch/an1-s2.htm#/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 200,
+    "id": 54,
     "title": "TVR2 HD",
     "description": "Google DASH Test Stream",
     "videoUrl": "https://tvr-tvr2.cdn.zitec.com/live/tvr2/main.m3u8",
