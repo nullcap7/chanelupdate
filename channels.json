@@ -498,17 +498,9 @@
     "category": "Music",
     "duration": 0,
     "headers": ""
-  },
-  {
-    "id": 52,
-    "title": "MTV",
-    "description": "Google DASH Test Stream",
-    "videoUrl": "https://iron1.jarvisx.cfd/zzz/usergenrx8c0k3lkr.m3u8",
-    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "Music",
-    "duration": 0,
-    "headers": ""
   }
 
+
 ]
+
 
