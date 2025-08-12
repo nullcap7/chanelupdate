@@ -498,6 +498,16 @@
     "category": "Music",
     "duration": 0,
     "headers": ""
+  },
+  {
+    "id": 52,
+    "title": "TVR2 HD",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://tvr-tvr2.cdn.zitec.com/live/tvr2/main.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Generale",
+    "duration": 0,
+    "headers": ""
   }
 
 
