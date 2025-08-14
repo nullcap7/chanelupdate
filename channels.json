@@ -511,11 +511,11 @@
   },
   {
     "id": 55,
-    "title": "Life/Earth",
+    "title": "TravelXP",
     "description": "Google DASH Test Stream",
     "videoUrl": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "Music",
+    "category": "Life/Earth",
     "duration": 0,
     "headers": ""
   }
