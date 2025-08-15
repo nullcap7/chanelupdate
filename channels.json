@@ -333,11 +333,11 @@
     "id": 34,
     "title": "CNN-LIVE",
     "description": "CNN-LIVE Live Stream",
-    "videoUrl": "https://thor1.syndula.cfd/cienen/usergenrx8ofzq1kr.m3u8",
+    "videoUrl": "https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
     "duration": 0,
-    "headers": "Referer: https://flash1.bogulus.cfd/000/1tivi10.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+    "headers": ""
   },
   {
     "id": 35,
