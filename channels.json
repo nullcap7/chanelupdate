@@ -362,7 +362,7 @@
   {
     "id": 37,
     "title": "CNBC News",
-    "description": "CBS-REALITY Live Stream",
+    "description": "CBS-REALITY Live Streamm",
     "videoUrl": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8",
     "category": "News",
     "duration": 0,
@@ -507,6 +507,25 @@
     "category": "Generale",
     "duration": 0,
     "headers": ""
+  },
+  {
+    "id": 52,
+    "title": "Magic TV",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Music",
+    "duration": 0,
+    "headers": ""
+  },
+  {
+    "id": 53,
+    "title": "TravelXP",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Life/Earth",
+    "duration": 0,
+    "headers": ""
   }
 ]
-
