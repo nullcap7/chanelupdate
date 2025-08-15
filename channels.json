@@ -330,6 +330,45 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
+    "id": 34,
+    "title": "CNN-LIVE",
+    "description": "CNN-LIVE Live Stream",
+    "videoUrl": "https://thor1.syndula.cfd/cienen/usergenrx8ofzq1kr.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "News",
+    "duration": 0,
+    "headers": "Referer: https://flash1.bogulus.cfd/000/1tivi10.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+  },
+  {
+    "id": 35,
+    "title": "BBC-NEWS",
+    "description": "BBC-NEWS Live Stream",
+    "videoUrl": "https://arwen1.panaka.cfd/bibinews/usergenz2b0ekd.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "News",
+    "duration": 0,
+    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+  },
+  {
+    "id": 36,
+    "title": "CBS-REALITY",
+    "description": "CBS-REALITY Live Stream",
+    "videoUrl": "https://iron1.jarvisx.cfd/cbrealy/usergenrxlj5c0q.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "News",
+    "duration": 0,
+    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+  },
+  {
+    "id": 37,
+    "title": "CNBC News",
+    "description": "CBS-REALITY Live Streamm",
+    "videoUrl": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8",
+    "category": "News",
+    "duration": 0,
+    "headers": ""
+  },
+  {
     "id": 38,
     "title": "PRS-1",
     "description": "PRS-1 Live Stream",
@@ -490,4 +529,3 @@
     "headers": ""
   }
 ]
-
