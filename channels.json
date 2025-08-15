@@ -50,7 +50,7 @@
     "headers": "Referer: https://www.cool-etv.net/ch/an1-s2.htm#/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 54,
+    "id": 6,
     "title": "TVR2 HD",
     "description": "Google DASH Test Stream",
     "videoUrl": "https://tvr-tvr2.cdn.zitec.com/live/tvr2/main.m3u8",
@@ -60,7 +60,7 @@
     "headers": ""
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "PROTV",
     "description": "PROTV Live Stream",
     "videoUrl": "https://omega1.visionxmans.cfd/porky/usergenx7240lrnd.m3u8",
@@ -70,7 +70,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "ANTENA1",
     "description": "AN1 Live Stream",
     "videoUrl": "https://alpha1.yosefina.cfd/ah1/usergenx304Jtlrnd.m3u8",
@@ -80,7 +80,7 @@
     "headers": "Referer: https://www.cool-etv.net/ch/an1-s2.htm#/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Kanal D",
     "description": "CD Live Stream",
     "videoUrl": "https://arwen1.panaka.cfd/canald/usergenxq0jl72l0rnd.m3u8",
@@ -90,7 +90,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Prima TV",
     "description": "Prima Live Stream",
     "videoUrl": "https://rohan116.ultronx.cfd/prima/usergenrnd8qxl92r.m3u8",
@@ -100,7 +100,7 @@
     "headers": "Referer: https://www.cool-etv.net/ch/primatv.htm/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "TVR3",
     "description": "TVR3 Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/tevere3/usergenx4klq9qrnd.m3u8",
@@ -110,7 +110,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "TVR International",
     "description": "TVR-INTER Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/teverei/usergenx6vkj8aqrnd.m3u8",
@@ -120,7 +120,7 @@
     "headers": "Referer: https://thor1.syndula.cfd/000/tivinter.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "Digi 24",
     "description": "NEWS-24 Live Stream",
     "videoUrl": "https://flash1.bogulus.cfd/news/usergenrk91a4gt.m3u8",
@@ -130,7 +130,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "PROCINEMA",
     "description": "PROCINEMA Live Stream",
     "videoUrl": "https://saruman1.tharen.cfd/porkynema/usergenrnd0ek16an4l.m3u8",
@@ -140,7 +140,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Antena Stars",
     "description": "AN2 Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/antstar/usergenrxl7m94sq.m3u8",
@@ -150,7 +150,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 52,
+    "id": 16,
     "title": "EUFORIA",
     "description": "EUFORIA Live Stream",
     "videoUrl": "https://saruman1.tharen.cfd/hap/usergenrnd2gd3ogS7bkd.m3u8",
@@ -160,7 +160,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 16,
+    "id": 17,
     "title": "TVR Cultural",
     "description": "UNKNOWN Live Stream",
     "videoUrl": "https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8",
@@ -170,7 +170,7 @@
     "headers": "Referer: https://www.tvrplus.ro/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.tvrplus.ro"
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "Moldova 1",
     "description": "UNKNOWN Live Stream",
     "videoUrl": "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8",
@@ -180,7 +180,7 @@
     "headers": "Referer: https://v0.trm.md/videos/embed/kcvQjHoCxCn5ZAkaPGgpNJ?warningTitle=0&peertubeLink=0\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Moldova 2",
     "description": "UNKNOWN Live Stream",
     "videoUrl": "https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8",
@@ -190,7 +190,7 @@
     "headers": "Referer: https://v.trm.md/videos/embed/937e4e0e-7174-4fb2-a299-480e68b49ecb?warningTitle=0&peertubeLink=0\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "HBO",
     "description": "HRO1 Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/h1/usergendx172s9rnd.m3u8",
@@ -200,7 +200,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 20,
+    "id": 21,
     "title": "HBO2",
     "description": "HRO2 Live Stream",
     "videoUrl": "https://onyx1.mofta.cfd/h2/usergendxn430rnd.m3u8",
@@ -210,7 +210,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 21,
+    "id": 22,
     "title": "BBC-FIRST-LIVE",
     "description": "BBC-FIRST-LIVE Live Stream",
     "videoUrl": "https://onyx1.mofta.cfd/bibi1/usergendxn09l2s6cek.m3u8",
@@ -220,7 +220,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 22,
+    "id": 23,
     "title": "AMC",
     "description": "AMC Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/amece/usergenrx3oq1kr.m3u8",
@@ -230,7 +230,7 @@
     "headers": "Referer: https://iron1.jarvisx.cfd/000/amece.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 23,
+    "id": 24,
     "title": "TV100",
     "description": "TV100 Live Stream",
     "videoUrl": "https://flash1.bogulus.cfd/tivi10/usergenrxs4f7zc.m3u8",
@@ -240,7 +240,7 @@
     "headers": "Referer: https://flash1.bogulus.cfd/000/1tivi10.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 24,
+    "id": 25,
     "title": "MOVIE",
     "description": "MOVIE Live Stream",
     "videoUrl": "https://ultra2.falconx.cfd/muk/usergendx0nht6241s0krdnyd.m3u8",
@@ -250,7 +250,7 @@
     "headers": "Referer: https://ultra2.falconx.cfd/000/mok.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 25,
+    "id": 26,
     "title": "Atomic-TV",
     "description": "UNKNOWN Live Stream",
     "videoUrl": "https://atomic.streamnet.ro/atomictv.m3u8",
@@ -260,7 +260,7 @@
     "headers": "Referer: https://www.atomictv.ro/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.atomictv.ro"
   },
   {
-    "id": 26,
+    "id": 27,
     "title": "ZU-TV",
     "description": "ZU-TV Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/zzz/usergenrx8c0k3lkr.m3u8",
@@ -270,7 +270,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 27,
+    "id": 28,
     "title": "MUSIC-CHANNEL",
     "description": "MUSIC-CHANNEL Live Stream",
     "videoUrl": "https://arwen1.panaka.cfd/mch/usergenz7h0qdt.m3u8",
@@ -280,7 +280,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 28,
+    "id": 29,
     "title": "KISS-TV",
     "description": "KISS-TV Live Stream",
     "videoUrl": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8",
@@ -290,7 +290,7 @@
     "headers": ""
   },
   {
-    "id": 29,
+    "id": 30,
     "title": "TVR Folclor",
     "description": "UNKNOWN Live Stream",
     "videoUrl": "https://tvr-tvrfolclor.cdn.zitec.com/live/tvrfolclor/main.m3u8",
@@ -300,7 +300,7 @@
     "headers": "Referer: https://www.tvrplus.ro/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.tvrplus.ro"
   },
   {
-    "id": 30,
+    "id": 31,
     "title": "REALITATEA",
     "description": "REALITATEA Live Stream",
     "videoUrl": "https://flash1.bogulus.cfd/realy/usergenrx0j3qt.m3u8",
@@ -310,7 +310,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 31,
+    "id": 32,
     "title": "PRIMA-NEWS",
     "description": "PRIMA-NEWS Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/prnews/usergenx2klq7rnd.m3u8",
@@ -320,7 +320,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 32,
+    "id": 33,
     "title": "EURO-NEWS",
     "description": "EURO-NEWS Live Stream",
     "videoUrl": "https://thor1.syndula.cfd/ernews/usergenx6vkj8aqrnd.m3u8",
@@ -330,7 +330,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 33,
+    "id": 34,
     "title": "CNN-LIVE",
     "description": "CNN-LIVE Live Stream",
     "videoUrl": "https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8",
@@ -340,7 +340,7 @@
     "headers": ""
   },
   {
-    "id": 34,
+    "id": 35,
     "title": "BBC-NEWS",
     "description": "BBC-NEWS Live Stream",
     "videoUrl": "https://arwen1.panaka.cfd/bibinews/usergenz2b0ekd.m3u8",
@@ -350,7 +350,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 35,
+    "id": 36,
     "title": "CBS-REALITY",
     "description": "CBS-REALITY Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/cbrealy/usergenrxlj5c0q.m3u8",
@@ -360,7 +360,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 58,
+    "id": 37,
     "title": "CNBC News",
     "description": "CBS-REALITY Live Stream",
     "videoUrl": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8",
@@ -509,7 +509,7 @@
     "headers": ""
   },
   {
-    "id": 51,
+    "id": 52,
     "title": "Magic TV",
     "description": "Google DASH Test Stream",
     "videoUrl": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8",
@@ -519,7 +519,7 @@
     "headers": ""
   },
   {
-    "id": 55,
+    "id": 53,
     "title": "TravelXP",
     "description": "Google DASH Test Stream",
     "videoUrl": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
@@ -528,7 +528,4 @@
     "duration": 0,
     "headers": ""
   }
-
 ]
-
-
