@@ -63,11 +63,12 @@
     "id": 7,
     "title": "PROTV",
     "description": "PROTV Live Stream",
-    "videoUrl": "https://da-88fffe66.id.vtv-prod.vodafone.ro/wp/live.vtv-prod.vodafone.ro/5870/vxfmt=dp/manifest.mpd?device_profile=DASH_AVC_FULLHD",
+    "videoUrl": "ttps://ultra3.ronanx.cfd/porky/high/usergenx7240lrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": "Referer: https://tvron.ro/pro-tv-hd-live/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://tvron.ro"
+    "headers": "Referer: https://cool-tv.net/ch/protv.htm/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin:https://cool-tv.net"
+
   },
   {
     "id": 8,
