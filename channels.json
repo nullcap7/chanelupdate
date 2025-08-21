@@ -63,7 +63,7 @@
     "id": 7,
     "title": "PROTV",
     "description": "PROTV Live Stream",
-    "videoUrl": "ttps://ultra3.ronanx.cfd/porky/high/usergenx7240lrnd.m3u8",
+    "videoUrl": "https://ultra3.ronanx.cfd/porky/high/usergenx7240lrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
@@ -78,7 +78,7 @@
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": "Referer: https://www.cool-etv.net/ch/primatv.htm/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+    "headers": "Referer: https://www.cool-tv.net/ch/primatv.htm/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-tv.net"
   },
   {
     "id": 9,
@@ -542,6 +542,7 @@
   }
 
 ]
+
 
 
 
