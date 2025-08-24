@@ -539,6 +539,16 @@
     "category": "News",
     "duration": 0,
     "headers": "Referer: https://www.romaniatv.net/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.romaniatv.net"
+  },
+  {
+    "id": 56,
+    "title": "DigiSport",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://jardo111.jardomany.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Sport",
+    "duration": 0,
+    "headers": "Referer: https://www.tvonline123.com/tvlive/?url=dgi-sport-1\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.tvonline123.com"
   }
 
 ]
