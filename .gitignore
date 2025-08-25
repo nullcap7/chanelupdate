@@ -1,3 +1,4 @@
+# Archives and installers
 *.tar
 *.tar.*
 *.jar
@@ -6,9 +7,17 @@
 *.deb
 *.zip
 *.tgz
+
+# Logs
 *.log
 *.log.*
+
+# Signature files
 *.sig
 
+# Directories to ignore
 pkg/
 src/
+
+# Ignore JSON files (add this line)
+*.json
