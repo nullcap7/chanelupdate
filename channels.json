@@ -221,6 +221,16 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
+    "id": 21,
+    "title": "ComedyPlay",
+    "description": "HRO2 Live Stream",
+    "videoUrl": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Movies",
+    "duration": 0,
+    "headers": "Referer: https://tv.legal/watch/comedy-play-ro\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
+  },
+  {
     "id": 22,
     "title": "BBC-FIRST-LIVE",
     "description": "BBC-FIRST-LIVE Live Stream",
