@@ -619,7 +619,19 @@
     "category": "Kids",
     "duration": 0,
     "headers": "Referer: https://tv.legal/watch/nickelodeon-east-us\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
+},
+{
+   "id": 68,
+    "title": "GustoTV",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Kids",
+    "duration": 0,
+    "headers": "Referer: ""
 }
+
+
 
 
 ]
