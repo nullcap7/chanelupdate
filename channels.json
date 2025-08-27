@@ -639,6 +639,16 @@
     "category": "Life/Earth",
     "duration": 0,
     "headers": ""
+},
+{
+   "id": 72,
+    "title": "MTV",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://fl3.moveonjoy.com/MTV/index.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Life/Earth",
+    "duration": 0,
+    "headers": ""
 }
 
 
