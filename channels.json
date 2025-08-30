@@ -304,11 +304,11 @@
     "id": 29,
     "title": "KISS-TV",
     "description": "KISS-TV Live Stream",
-    "videoUrl": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8",
+    "videoUrl": "https://arwen1.panaka.cfd/kys/usergenrndgs6h1vys2n4l.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
     "duration": 0,
-    "headers": ""
+    "headers": "Referer: https://cool-tv.net/ch/kiss-tv.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
     "id": 30,
