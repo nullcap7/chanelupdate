@@ -639,7 +639,18 @@
     "category": "Music",
     "duration": 0,
     "headers": ""
+},
+{
+   "id": 73,
+    "title": "JazzTV",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Music",
+    "duration": 0,
+    "headers": ""
 }
+
 ]
 
 
