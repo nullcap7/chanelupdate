@@ -659,8 +659,17 @@
     "category": "News",
     "duration": 0,
     "headers": "Referer: https://tv.legal/watch/france-24-french-fr\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
+},
+{
+   "id": 75,
+    "title": "Impact TV Dance",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://online.tvimpact.live/hls/dancetv.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Music",
+    "duration": 0,
+    "headers": "Referer: https://tv.legal/watch/impact-tv-dance-ro\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
 }
-
 ]
 
 
