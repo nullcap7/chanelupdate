@@ -298,7 +298,7 @@
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
     "duration": 0,
-    "headers": "Referer: https://rds.live/music-channel/\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://rds.live"
+    "headers": "Referer: https://tvron.ro/ch-music-channel-live\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tvron.ro"
   },
   {
     "id": 29,
