@@ -676,7 +676,7 @@
     "description": "Google DASH Test Stream",
     "videoUrl": "https://thor1.syndula.cfd/schi1/usergendxn430rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "Movie",
+    "category": "Movies",
     "duration": 0,
     "headers": "Referer: https://www.cool-etv.net/ch/shut1-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
 }
