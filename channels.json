@@ -382,13 +382,13 @@
   },
   {
     "id": 37,
-    "title": "CNCB News",
+    "title": "CNBC News",
     "description": "CNBC NEWS",
-    "videoUrl": "https://fl3.moveonjoy.com/CNBC/index.m3u8",
+    "videoUrl": "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
     "duration": 0,
-    "headers": ""
+    "headers": "Referer: http://www.freeintertv.com/view/id-2835/1-1-0-5\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: http://www.freeintertv.com"
   },
   {
     "id": 38,
