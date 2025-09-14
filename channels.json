@@ -594,7 +594,7 @@
    "id": 64,
     "title": "BabyFirst",
     "description": "Google DASH Test Stream",
-    "videoUrl": https://iptv-org.github.io/channels/us/BabyFirst#US",
+    "videoUrl": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Kids",
     "duration": 0,
